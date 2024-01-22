@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter1_7_2024/pages/cart_page.dart';
 import 'package:flutter1_7_2024/pages/test_page.dart';
+import 'package:flutter1_7_2024/pages/teacher_Page.dart';
 
 void main() {
   runApp(const MyApp());
